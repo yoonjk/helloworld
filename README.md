@@ -1,2 +1,2 @@
-## istio demo 
-test
+## Helloworld demo
+helloworld using SpringBoot 2.x
