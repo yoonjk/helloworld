@@ -1,4 +1,15 @@
+# folder
+target/*
+.settings/*
+
+# CLASSPATH
+.classpath
+
+# .Project
+.project
+
 # Compiled class file
+
 *.class
 
 # Log file
